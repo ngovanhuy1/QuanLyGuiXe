@@ -1,0 +1,21 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', sans-serif;
+}
+.container {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 40px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+}
+.btn-primary {
+    background-color: #ff7b00;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #e66a00;
+}
+table thead {
+    background-color: #ffbb55;
+}

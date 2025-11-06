@@ -1,8 +1,8 @@
-# Hệ thống quản lý đồ án tốt nghiệp
+# Xây dựng hệ thống web gửi xe
 ## 1. Giới thiệu
 
-Nền tảng giúp kết nối sinh viên và giảng viên, tối ưu hóa mọi bước trong quá trình hoàn thành đồ án tốt nghiệp.
-Hệ thống được xây dựng nhằm hỗ trợ công tác quản lý, theo dõi và đánh giá hoạt động của sinh viên trong suốt quá trình làm đồ án. Thay vì quản lý thủ công, hệ thống mang đến một giải pháp tập trung, hiện đại và dễ sử dụng.
+Nền tảng giúp kết nối khách hàng và quản lý bãi xe, tối ưu hóa mọi bước trong quá trình gửi và nhận xe.
+Hệ thống được xây dựng nhằm hỗ trợ công tác quản lý, theo dõi và đánh giá hoạt động của bãi xe, từ việc quản lý xe, vé gửi, nhân viên đến khách hàng. Thay vì quản lý thủ công, hệ thống mang đến một giải pháp tập trung, hiện đại và dễ sử dụng, giúp nâng cao hiệu quả và trải nghiệm của khách hàng.
 
 ## 2. Các công nghệ được sử dụng
 
